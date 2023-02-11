@@ -9,7 +9,7 @@ numpy = "*"
 pandas = "*"
 seaborn = "*"
 matplotlib = "*"
-sklearn = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
